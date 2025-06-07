@@ -1,0 +1,2 @@
+PS C:\Users\Admin\work\C_C++\Array> g++ array.cpp -o array.exe
+PS C:\Users\Admin\work\C_C++\Array> .\array.exe
